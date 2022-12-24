@@ -1,0 +1,65 @@
+#hero img {
+    width: 200px;
+    float: left;
+}
+h2 em {
+    color: red;
+}
+h3 {
+    font-size: large;
+    color: gold;
+}
+
+#video {
+    width:500px;
+    float: right;
+    margin: 10px;
+}
+a {
+    color: blue;
+}
+
+.container img {
+    width: 150px;
+}
+
+#header {
+    background-color: goldenrod;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 1580px;
+    border: 1px 1 #ddd;
+}
+
+#header h2 {
+    font-size: x-large;
+}
+
+h4 a {
+    color: white;
+}
+
+h1 {
+    font-size: x-large;
+}
+
+a img {
+    width: 250px;
+    margin: 15px;
+}
+
+#header2 h3 {
+    color: white;
+}
+#header2 {
+    background-color: goldenrod;
+    margin: 20px 0 20px 0;
+    height: 500px;
+    width: 1600px;
+    border: 1px 1 #ddd;
+    margin-top: 120px;
+}
+
+#header2 a {
+    color: blue;
+}
